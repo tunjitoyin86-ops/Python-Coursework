@@ -1,0 +1,10 @@
+title,type,date_due,completed,interval,completed_dates,date_created
+Buy groceries,Task,2024-03-03,False,,,2024-03-07
+Do laundry,Task,2024-03-09,False,,,2024-03-07
+Clean room,Task,2024-03-06,False,,,2024-03-07
+Do homework,Task,2024-03-10,False,,,2024-03-07
+Walk dog,Task,2024-03-12,False,,,2024-03-07
+Do dishes,Task,2024-03-13,False,,,2024-03-07
+Go to the gym,Task,2024-03-07,False,,,2024-02-08
+Submit assignment,Task,2026-07-18,False,,,2025-07-07
+Do assignment,RecurringTask,2026-01-20,False,7,,2026-04-23
