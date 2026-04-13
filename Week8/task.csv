@@ -1,0 +1,5 @@
+title,type,date_due,completed,interval,completed_dates,date_created
+Submit Assignment,RecurringTask,2026-04-25,False,"5 days, 0:00:00",,2026-03-22
+Buy groceries,RecurringTask,2024-02-20,False,"3 days, 0:00:00",,2026-03-22
+clean room,RecurringTask,2024-02-20,False,"2 days, 0:00:00",,2026-03-22
+walk dog,RecurringTask,2024-02-25,False,"3 days, 0:00:00",,2026-03-22
